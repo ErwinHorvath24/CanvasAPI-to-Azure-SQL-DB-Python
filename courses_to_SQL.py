@@ -20,7 +20,6 @@ import requests
 import json
 import pyodbc
 import pandas as pd
-import logging
 import textwrap
 
 
